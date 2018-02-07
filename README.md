@@ -57,7 +57,3 @@ Vă recomandăm deodată să opriți notificările.
 
 + https://t.me/holywars_ro - offtop
 
-+ https://t.me/evenimente_ro
-
-+ https://t.me/antreprenor_ro
-
