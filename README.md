@@ -23,6 +23,8 @@ Vă recomandăm deodată să opriți notificările.
 
 + https://t.me/js_jobs_ro
 
++ https://t.me/php_job
+
 # Altele
 
 + https://t.me/seo_ro
