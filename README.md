@@ -51,6 +51,8 @@ Vă recomandăm deodată să opriți notificările.
 
 # Altele
 
++ https://t.me/evenimente_it_ro
+
 + https://t.me/seo_ro
 
 + https://t.me/gnulinuxromania
