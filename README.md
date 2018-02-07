@@ -1,4 +1,4 @@
-Awesome Telegram RO
+Grupuri IT pe Telegram cu vorbitori de limba română
 ===================
 
 Grupuri pe Telegram în care se vorbește româna, dedicate dezvoltatorilor, IT, DevOps și QA. Toate grupurile au moderatori, este interzisă reclama, spamul și publicarea de posturi vacante (pentru asta sunt grupuri speciale). Nu-i bine venit flood-ul, dar se respectă comportamentul profesional. 
