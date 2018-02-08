@@ -59,3 +59,4 @@ Vă recomandăm deodată să opriți notificările.
 
 + https://t.me/holywars_ro - offtop
 
++ https://t.me/ai_ro - Intelegenața artificială, România
