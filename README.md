@@ -41,7 +41,7 @@ Vă recomandăm deodată să opriți notificările.
 
 + https://t.me/jobs_it_ro
 
-# Content Management System (CMS)
+## Content Management System (CMS)
 
 + https://t.me/wordpress_ro
 
@@ -49,7 +49,7 @@ Vă recomandăm deodată să opriți notificările.
 
 + https://t.me/magento_ro
 
-# Altele
+## Altele
 
 + https://t.me/evenimente_it_ro
 
