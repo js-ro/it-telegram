@@ -35,11 +35,13 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Posturi de muncă
 
-+ https://t.me/js_jobs_ro
++ [JavaScript](https://t.me/js_jobs_ro)
 
-+ https://t.me/php_job
++ [NodeJS](https://t.me/node_job)
 
-+ https://t.me/jobs_it_ro
++ [PHP](https://t.me/php_job)
+
++ [IT](https://t.me/jobs_it_ro)
 
 ## Content Management System (CMS)
 
