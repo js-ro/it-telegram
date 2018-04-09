@@ -7,13 +7,13 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Frontend
 
-+ https://t.me/js_ro
++ [JavaScript](https://t.me/js_ro)
 
-+ https://t.me/angular_ro
++ [Angular](https://t.me/angular_ro)
 
-+ https://t.me/react_ro
++ [React](https://t.me/react_ro)
 
-+ https://t.me/vue_ro
++ [VueJS](https://t.me/vue_ro)
 
 ## Backend
 
