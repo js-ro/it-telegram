@@ -17,15 +17,15 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Backend
 
-+ https://t.me/node_ro
++ [Node JS](https://t.me/node_ro)
 
-+ https://t.me/php_ro
++ [PHP](https://t.me/php_ro)
 
-+ https://t.me/python_ro
++ [Python](https://t.me/python_ro)
 
-+ https://t.me/java_ro
++ [Java](https://t.me/java_ro)
 
-+ https://t.me/scala_ro
++ [Scala](https://t.me/scala_ro)
 
 ## Mobile
 
