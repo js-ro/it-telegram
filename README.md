@@ -42,6 +42,8 @@ Vă recomandăm deodată să opriți notificările.
 
 + [PHP](https://t.me/php_job)
 
++ [Python](https://t.me/python_job)
+
 + [IT](https://t.me/jobs_it_ro)
 
 ## Content Management System (CMS)
