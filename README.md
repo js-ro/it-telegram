@@ -67,4 +67,4 @@ Vă recomandăm deodată să opriți notificările.
 + https://t.me/ai_ro - Intelegenața artificială, România
 + https://t.me/bitcoinplusplus - Bitcoin++ Grupul programatorilor Bitcoin si tehnologii blockchain/fintech din Romania.
 
-Partener: http://ciupacabra.com
+Partener: https://ciupacabra.com
