@@ -28,6 +28,8 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Scala](https://t.me/scala_ro)
 
++ [.NET Romania](https://t.me/dotnetromania)
+
 ## Mobile
 
 + https://t.me/android_ro
