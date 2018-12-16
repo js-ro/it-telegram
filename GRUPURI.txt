@@ -10,7 +10,7 @@
 @python_ro
 @java_ro
 @scala_ro
-@.net_ro
+@dotnetromania
 !
 #MOBILE
 @android_ro 
