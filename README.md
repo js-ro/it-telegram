@@ -12,7 +12,9 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Angular](https://t.me/angular_ro)
 
-+ [React](https://t.me/joinchat/B2gdSlVQm13s2IIY3qnM6w)
++ [React.js](https://t.me/joinchat/B2gdSlVQm13s2IIY3qnM6w)
+
++ [Vue.js](https://t.me/joinchat/B2gdShN7TwlUnYcfEsFRDg)
 
 ## Backend
 
