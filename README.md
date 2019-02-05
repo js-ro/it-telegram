@@ -32,9 +32,9 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Mobile
 
-+ https://t.me/android_ro
++ [Android dezvoltatori](https://t.me/joinchat/B2gdSkVSnKCWiHeeQ2hGLA)
 
-+ https://t.me/ios_ro
++ [iOS dezvoltatori](https://t.me/joinchat/B2gdShQ44LAuaLJrvcX3Dg)
 
 ## Posturi de muncă
 
