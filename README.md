@@ -56,20 +56,20 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Content Management System (CMS)
 
-+ https://t.me/wordpress_ro
++ [WordPress](https://t.me/wordpress_ro)
 
-+ https://t.me/drupal_ro
++ [Drupal](https://t.me/drupal_ro)
 
-+ https://t.me/magento_ro
++ [Magento](https://t.me/magento_ro)
 
 ## Altele
 
-+ https://t.me/evenimente_it_ro
++ [SEO optimizare](https://t.me/seo_ro)
 
-+ https://t.me/seo_ro
++ [Evenimente IT](https://t.me/evenimente_it_ro)
 
-+ https://t.me/holywars_ro - offtop
++ [Grup pentru OFFTOP](https://t.me/holywars_ro)
 
-+ https://t.me/bitcoinplusplus - Bitcoin++ Grupul programatorilor Bitcoin si tehnologii blockchain/fintech din Romania.
++ [BitCoin++](https://t.me/bitcoinplusplus) Grupul programatorilor Bitcoin si tehnologii blockchain/fintech din Romania.
 
 Partener: https://ciupacabra.com
