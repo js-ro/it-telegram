@@ -30,6 +30,11 @@ Vă recomandăm deodată să opriți notificările.
 
 + [.NET Romania](https://t.me/dotnetromania)
 
+## Baze de date
+ +[PostgreSQL](https://t.me/joinchat/B2gdShFuAfGr4QT31IEugw)
+ 
+ +[MySQL](https://t.me/joinchat/B2gdSktr5qlwD_sfkgXdAQ)
+
 ## Mobile
 
 + [Android dezvoltatori](https://t.me/joinchat/B2gdSkVSnKCWiHeeQ2hGLA)
