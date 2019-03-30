@@ -30,6 +30,8 @@ Vă recomandăm deodată să opriți notificările.
 
 + [.NET Romania](https://t.me/dotnetromania)
 
++ [MadelineProto - MTProto telegram protocol](https://t.me/joinchat/B2gdShXph2zFHkXcCGemZQ)
+
 ## Baze de date
 
  + [PostgreSQL](https://t.me/joinchat/B2gdShFuAfGr4QT31IEugw)
