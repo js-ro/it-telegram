@@ -72,6 +72,10 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Grup pentru OFFTOP](https://t.me/holywars_ro)
 
++ [OpenStreetMap Moldova](https://t.me/OSMMoldova)
+
++ [OpenStreetMap România](https://t.me/OSMRomania)
+
 + [BitCoin++](https://t.me/bitcoinplusplus) Grupul programatorilor Bitcoin si tehnologii blockchain/fintech din Romania.
 
 Partener: https://ciupacabra.com
