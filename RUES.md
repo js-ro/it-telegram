@@ -6,6 +6,7 @@ Este interzis:
 - Piratarea
 - Discuțiile nu la temă
 - Cuvintele vulgare
+- Discuțiile despre religie
 
 ## Vă rugăm să nu adresați META-întrebări în chat.
 Câteva exemple de META-întrebări:
