@@ -1,7 +1,7 @@
 Grupuri IT pe Telegram cu vorbitori de limba română
 ===================
 
-[Regulile](https://github.com/js-ro/it-telegram/blob/master/RUES.md). Grupuri pe Telegram în care se vorbește româna, dedicate dezvoltatorilor, IT, DevOps și QA.
+[Regulile](https://github.com/js-ro/it-telegram/blob/master/RULES.md). Grupuri pe Telegram în care se vorbește româna, dedicate dezvoltatorilor, IT, DevOps și QA.
 Vă recomandăm deodată să opriți notificările.
 
 ## Frontend
