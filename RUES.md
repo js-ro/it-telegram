@@ -22,7 +22,8 @@ Dar chatul - este altceva. Oamenii tapează mesajele mai lent decât vorbesc.
 La fel este și cu mesajele de așa fel: "Salut", "Are cineva un minut?", "Salut, este cineva aici?", "Ping".
 Pur și simplu adresați deodată întrebarea.
 
-
+![Fără meta întrebări](https://raw.githubusercontent.com/js-ro/it-telegram/master/bad-good.png)
 
 ___
 Lista de grupuri o găsiți [aici](https://github.com/js-ro/it-telegram).
+Dacă aveți vre-o idee pentru înbunătățirea regulilor - creați un pull-request.
