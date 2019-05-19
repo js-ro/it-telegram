@@ -12,7 +12,7 @@ Vă recomandăm deodată să opriți notificările.
 
 + [React.js](https://t.me/joinchat/B2gdSlVQm13s2IIY3qnM6w)
 
-+ [Vue.js](https://t.me/joinchat/B2gdShN7TwlUnYcfEsFRDg)
++ [Vue.js](https://t.me/vuero)
 
 ## Backend
 
