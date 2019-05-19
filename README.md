@@ -10,7 +10,7 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Angular](https://t.me/angular_ro)
 
-+ [React.js](https://t.me/joinchat/B2gdSlVQm13s2IIY3qnM6w)
++ [React.js](https://t.me/reactjs_ro)
 
 + [Vue.js](https://t.me/vuero)
 
@@ -32,9 +32,9 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Baze de date
 
- + [PostgreSQL](https://t.me/joinchat/B2gdShFuAfGr4QT31IEugw)
+ + [PostgreSQL](https://t.me/postgresql_ro)
  
- + [MySQL](https://t.me/joinchat/B2gdSktr5qlwD_sfkgXdAQ)
+ + [MySQL](https://t.me/mysql_ro)
 
 ## Mobile
 
