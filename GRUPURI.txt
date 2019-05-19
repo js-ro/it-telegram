@@ -1,5 +1,7 @@
 #FRONTEND
 @js_ro 
+@reactjs_ro
+@vuero
 @angular_ro 
 @react_ro 
 @vue_ro 
@@ -13,8 +15,14 @@
 @dotnetromania
 !
 #MOBILE
+@ro_android
+@ro_ios
 @android_ro 
 @ios_ro 
+!
+#BAZE DE DATE
+@postgresql_ro
+@mysql_ro
 !
 #POSTURI DE MUNCĂ
 @js_jobs_ro
@@ -35,4 +43,6 @@
 @seo_ro 
 @ai_ro 
 @holywars_ro 
-@evenimente_it_ro 
+@evenimente_it_ro
+@OSMMoldova
+@OSMRomania
