@@ -8,15 +8,15 @@ Vă recomandăm deodată să opriți notificările.
 
 + [JavaScript](https://t.me/js_ro)
 
-+ [Angular](https://t.me/angular_ro)
++ [Angular](https://t.me/js_ro)
 
-+ [React.js](https://t.me/reactjs_ro)
++ [React.js](https://t.me/js_ro)
 
-+ [Vue.js](https://t.me/vuero)
++ [Vue.js](https://t.me/js_ro)
 
 ## Backend
 
-+ [Node JS](https://t.me/node_ro)
++ [Node JS](https://t.me/js_ro)
 
 + [PHP](https://t.me/php_ro)
 
@@ -44,9 +44,9 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Posturi de muncă
 
-+ [JavaScript](https://t.me/js_jobs_ro)
++ [JavaScript](https://t.me/js_ro)
 
-+ [NodeJS](https://t.me/node_job)
++ [NodeJS](https://t.me/js_ro)
 
 + [PHP](https://t.me/php_job)
 
