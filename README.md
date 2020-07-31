@@ -14,7 +14,7 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Python](https://t.me/python_ro)
 
-+ [.NET Romania](https://t.me/dotnetro)
++ [.NET Romania](https://t.me/dotnetro) Grup despre tehnologii Microsoft
 
 ## Baze de date
 
