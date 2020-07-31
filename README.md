@@ -6,29 +6,15 @@ Vă recomandăm deodată să opriți notificările.
 
 ## Frontend
 
-+ [JavaScript](https://t.me/js_ro)
-
-+ [Angular](https://t.me/js_ro)
-
-+ [React.js](https://t.me/js_ro)
-
-+ [Vue.js](https://t.me/js_ro)
++ [JavaScript, România - Moldova](https://t.me/js_ro) Despre Vue, React, Angular, Node.js, oferte de muncă, jQuery, bootstrap, ui, pwa, ssr, npm, html, css, bootstrap ... etc.
 
 ## Backend
 
-+ [Node JS](https://t.me/js_ro)
-
-+ [PHP](https://t.me/php_ro)
++ [PHP](https://t.me/php_ro) Despre Laravel, Zend, Yii, Symfony, CodeIgniter, Phalcon, CakePHP, OOP, WordPress, OpenCart, WordPress, Drupal, Joomla, Magento, PrestaShop, phpBB, composer, oferte de muncă ... etc.
 
 + [Python](https://t.me/python_ro)
 
-+ [Java](https://t.me/java_ro)
-
-+ [Scala](https://t.me/scala_ro)
-
-+ [.NET Romania](https://t.me/dotnetromania)
-
-+ [MadelineProto - MTProto telegram protocol](https://t.me/joinchat/B2gdShXph2zFHkXcCGemZQ)
++ [.NET Romania](https://t.me/dotnetro)
 
 ## Baze de date
 
@@ -42,27 +28,9 @@ Vă recomandăm deodată să opriți notificările.
 
 + [iOS dezvoltatori](https://t.me/ro_ios)
 
-## Posturi de muncă
-
-+ [JavaScript](https://t.me/js_ro)
-
-+ [NodeJS](https://t.me/js_ro)
-
-+ [PHP](https://t.me/php_job)
-
-+ [Python](https://t.me/python_job)
-
-+ [IT](https://t.me/jobs_it_ro)
-
-## Content Management System (CMS)
-
-+ [WordPress](https://t.me/wordpress_ro)
-
-+ [Drupal](https://t.me/drupal_ro)
-
-+ [Magento](https://t.me/magento_ro)
-
 ## Altele
+
++ [DevOps - comunitatea Română](https://t.me/devops_ro) Despre Kubernetes, CI/CD, Linux, docker, monitorizare, Cloud services, Prometheus, network și orice alte teme legate de administrarea serverelor.
 
 + [SEO optimizare](https://t.me/seo_ro)
 
@@ -70,10 +38,14 @@ Vă recomandăm deodată să opriți notificările.
 
 + [Grup pentru OFFTOP](https://t.me/holywars_ro)
 
++ [OpenStreetMap România](https://t.me/OSMRomania)
+
 + [OpenStreetMap Moldova](https://t.me/OSMMoldova)
 
-+ [OpenStreetMap România](https://t.me/OSMRomania)
+## Criptovalute
 
 + [BitCoin++](https://t.me/bitcoinplusplus) Grupul programatorilor Bitcoin si tehnologii blockchain/fintech din Romania.
 
-Partener: https://ciupacabra.com
++ [Elrond Network - Romania](https://t.me/ElrondNetwork_ro) Elrond este un blockchain public, extrem de scalabil, rapid și sigur pentru aplicații distribuite, pentru afaceri și noua economie de internet.
+
++ [WebDollarRO](https://t.me/WebDollarRO)
